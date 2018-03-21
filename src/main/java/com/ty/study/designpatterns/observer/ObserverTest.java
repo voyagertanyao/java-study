@@ -16,7 +16,6 @@ public class ObserverTest {
 		map.put("name", "yuanyuan");
 		map.put("age", 31);
 		observable.modifyInfo(map);
-		System.out.println();
 	}
 
 }
